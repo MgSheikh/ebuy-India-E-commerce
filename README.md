@@ -37,6 +37,9 @@ There are also many more feature which are not in the list. Feel free to use thi
 
 ### Set Up
 (i) Use XAMPP 5.6 for this project. You can download it from here... https://www.apachefriends.org/download.html
+<br>
 (ii) Create Databas name: ebuy-india
+<br>
 (iii) Import the "ebuy_india.sql" file
+<br>
 (iv) search on web browser: localhost/ebuy-india and see my website.
